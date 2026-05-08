@@ -59,3 +59,24 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Bashar-shamhan&show_icons=true&theme=radical" alt="Bashar's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bashar-shamhan&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bashar-shamhan&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🐍 نشاطي على GitHub
+<!-- بدلاً من النشاط الثابت، سنستخدم صورة متحركة بسيطة تعبر عن البرمجة -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bashar-shamhan&theme=react-dark" width="100%" />
+</p>
+
+---
+
+## ⚡ حقائق سريعة عني
+- 🔭 أنا أعمل حالياً على تطوير تطبيقات باستخدام **Flutter**.
+- 🌱 أنا أتعلم حالياً تقنيات **الذكاء الاصطناعي** و **Python**.
+- 💬 اسألني عن **تطوير تطبيقات الموبايل** أو **C++**.
+- ⚡ حقيقة ممتعة: أحب حل المشكلات البرمجية المعقدة!
+
